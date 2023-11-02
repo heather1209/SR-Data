@@ -1,10 +1,15 @@
-switch for the 100 coins buy more scrolls
+DONE - switch for the 100 coins buy more scrolls
 
-switch to allow multiple units in a duel for the quest
+DONE - switch to allow multiple units in a duel for the quest
 
-add a setting to preserve gold loyalty
-
-log captains and the times that battles are ready, then started, then rewards are collected, then another placement period starts. essentially, I want to know which of the captains I use are the fastest and therefore will net me the most rewards.
+DONE - add a setting to preserve gold loyalty
 
 collect daily free event currency
 
+log captains and the times that battles are ready, then started, then rewards are collected, then another placement period starts. essentially, I want to know which of the captains I use are the fastest and therefore will net me the most rewards.
+
+similar to the log but I think more valuable:
+ability to see the time since the last event. 
+for example: "waiting for captain to start battle" since 20 minutes ago
+if the captain is not live, they may not start the battle for a long time, so this should be manually abandoned
+some captain do a lot while not live, though, so unless I see when the last battle ended/rewards collected/whatever, it might be a while before I notice and change to another captain.
