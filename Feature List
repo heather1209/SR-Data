@@ -14,8 +14,8 @@ for example: "waiting for captain to start battle" since 20 minutes ago
 if the captain is not live, they may not start the battle for a long time, so this should be manually abandoned
 some captain do a lot while not live, though, so unless I see when the last battle ended/rewards collected/whatever, it might be a while before I notice and change to another captain.
 
-ability to pause a specific captain
+DONE - ability to pause a specific captain
 for example: there's a captain I follow on twitch and I want to be able to manually place units when she's live, but the other three can keep going manually.
 another example: if there's another captain I want to switch to and I don't want Captain #2 to keep automatically placing and then join the next battle for a longer wait time
 
-the reward collection screens stay on top of other stuff for extended periods of time. I can often see another battlefield opening behind it. can that "CONTINUE" button be selected in the code? it doesn't seem to be impacting functionality, like it still continues the placement procedure behind it so it's not a big deal, it's just a visual thing
+DONE - the reward collection screens stay on top of other stuff for extended periods of time. I can often see another battlefield opening behind it. can that "CONTINUE" button be selected in the code? it doesn't seem to be impacting functionality, like it still continues the placement procedure behind it so it's not a big deal, it's just a visual thing
